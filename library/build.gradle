@@ -1,0 +1,31 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.0'
+    }
+}
+
+apply plugin: 'com.android.library'
+
+repositories {
+}
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.2'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 21
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:21.0.3'
+}
+
+// Used to push in maven
+//apply from: '../maven_push.gradle'

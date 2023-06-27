@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/include_add_top_bar" />
+
+    <EditText
+        android:id="@+id/edit_title"
+        android:paddingLeft="10dp"
+        android:hint="Title"
+        android:layout_width="match_parent"
+        android:layout_height="40.0dip"
+        android:layout_margin="10dp"
+        android:background="@drawable/input"
+        />
+
+    <EditText
+        android:id="@+id/edit_describe"
+        android:hint="Content"
+        android:background="@drawable/input"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:minLines="4"
+        />
+
+</LinearLayout>

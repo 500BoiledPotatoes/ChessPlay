@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#CFAAFD</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textInputLayout">#96ffffff</color>
+    <color name="lcim_divider_line_color">#afafaf</color>
+    <color name="base_bg">#f4f6f6</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="base_actionbar_bg">#eb4e3d</color>
+    <color name="text_gray">#969696</color>
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_gray">#C4C4C4</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#5cbe6c</color>
+    <color name="colorMainBlue">#3675FF</color>
+
+
+    <color name="dark">#803cbcb7</color>
+    <color name="light">#800de6e8</color>
+    <color name="bg_blue">#03599E</color>
+    <color name="bg_black">#000000</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_topbar">#FCFCFC</color>
+    <color name="bg_gray">#00F1F1F1</color>
+
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_yellow">#FFC800</color>
+    <color name="text_topbar">#694E42</color>
+    <color name="div_white">#E5E5E5</color>
+
+    <color name="default_normal">#ff0099cc</color><!-- android.R.color.holo_blue_dark -->
+    <color name="default_pressed">#ff33b5e5</color><!-- android.R.color.holo_blue_light -->
+    <color name="default_disabled">#aaa</color><!-- android.R.color.darker_gray -->
+    <color name="White">#FFFFFF</color>
+    <color name="Brown1">#754B18</color>
+    <color name="Brown">#B58863</color>
+    <color name="Brown2">#F0D9B5</color>
+</resources>
